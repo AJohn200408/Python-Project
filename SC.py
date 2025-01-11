@@ -1,3 +1,7 @@
+'''The code uses Trie (used internally by the SpellChecker library) 
+and Pattern Matching (using Regular Expressions) 
+as its primary data structures and algorithms for spell and grammar checking'''
+
 import tkinter as tk # class for display, positioning and control of widgets.
 import re           #Python's regular expression module, used for sentence splitting and cleaning.
 import sys          #provides Python system interaction tools.         
